@@ -15,3 +15,6 @@ KMITL Semester 2/2021
 
 # Video 
 > * https://youtu.be/2F6SEY7e9t0
+# Web
+> * https://wachirapol2002.github.io/compro-project2021/
+> * สำรอง https://the-qi-questions-game.wachirapolklink.repl.co/
