@@ -1,2 +1,3 @@
 # compro-project2021
-project
+Computer Programming Project
+KMITL Semester 2/2021
